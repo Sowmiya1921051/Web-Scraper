@@ -1,3 +1,10 @@
-# Ignore virtual environment
+# Ignore .venv directory
 .venv/
 
+# Ignore virtual environment files
+# /.venv/lib/
+# /.venv/scripts/
+# /.venv/pyvenv.cfg
+
+# Ignore web_project settings file
+# /web_project/settings.py
