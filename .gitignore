@@ -1,6 +1,7 @@
-# Ignore virtual environment
-.venv/
-
-# Ignore virtual environment files
-.venv/*
-!.venv/pyvenv.cfg
+.env 
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
