@@ -1,9 +1,0 @@
-.venv/
-
-# Ignore virtual environment files
-
-/.venv/lib/
-
-/.venv/scripts/
-
-/.venv/pyvenv.cfg
